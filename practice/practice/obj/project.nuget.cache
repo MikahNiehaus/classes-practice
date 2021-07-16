@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsJl9meR0D0TB98LNjnnEUKk7PY1XCJtV23fF/17uL59sAC+sZEFKRgF37GRGC9lfUiarxYnn0gmHOyfGIRGJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikah Niehaus\\source\\repos\\practice\\practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikah Niehaus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

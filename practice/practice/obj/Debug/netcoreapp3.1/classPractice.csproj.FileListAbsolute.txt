@@ -1,0 +1,13 @@
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.exe
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.deps.json
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.runtimeconfig.json
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.runtimeconfig.dev.json
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.dll
+C:\Users\Mikah Niehaus\source\repos\practice\practice\bin\Debug\netcoreapp3.1\classPractice.pdb
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.csproj.AssemblyReference.cache
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.AssemblyInfoInputs.cache
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.AssemblyInfo.cs
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.csproj.CoreCompileInputs.cache
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.dll
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.pdb
+C:\Users\Mikah Niehaus\source\repos\practice\practice\obj\Debug\netcoreapp3.1\classPractice.genruntimeconfig.cache
